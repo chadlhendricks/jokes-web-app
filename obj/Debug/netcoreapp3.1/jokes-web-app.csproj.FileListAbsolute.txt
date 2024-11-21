@@ -172,3 +172,4 @@ C:\Users\chadl\Documents\Fork\Personal\jokes-web-app\obj\Debug\netcoreapp3.1\Raz
 C:\Users\chadl\Documents\Fork\Personal\jokes-web-app\obj\Debug\netcoreapp3.1\Razor\Views\Jokes\Details.cshtml.g.cs
 C:\Users\chadl\Documents\Fork\Personal\jokes-web-app\obj\Debug\netcoreapp3.1\Razor\Views\Jokes\Edit.cshtml.g.cs
 C:\Users\chadl\Documents\Fork\Personal\jokes-web-app\obj\Debug\netcoreapp3.1\Razor\Views\Jokes\Index.cshtml.g.cs
+C:\Users\chadl\Documents\Fork\Personal\jokes-web-app\obj\Debug\netcoreapp3.1\Razor\Views\Jokes\ShowSearchForm.cshtml.g.cs
