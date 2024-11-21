@@ -1,0 +1,1 @@
+A web application for storing and sharing jokes, built with ASP.NET Core, C#, and Visual Studio.
