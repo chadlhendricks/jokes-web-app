@@ -167,3 +167,8 @@ C:\Users\chadl\Documents\Fork\Personal\jokes-web-app\bin\Debug\netcoreapp3.1\ru\
 C:\Users\chadl\Documents\Fork\Personal\jokes-web-app\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\chadl\Documents\Fork\Personal\jokes-web-app\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\chadl\Documents\Fork\Personal\jokes-web-app\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chadl\Documents\Fork\Personal\jokes-web-app\obj\Debug\netcoreapp3.1\Razor\Views\Jokes\Create.cshtml.g.cs
+C:\Users\chadl\Documents\Fork\Personal\jokes-web-app\obj\Debug\netcoreapp3.1\Razor\Views\Jokes\Delete.cshtml.g.cs
+C:\Users\chadl\Documents\Fork\Personal\jokes-web-app\obj\Debug\netcoreapp3.1\Razor\Views\Jokes\Details.cshtml.g.cs
+C:\Users\chadl\Documents\Fork\Personal\jokes-web-app\obj\Debug\netcoreapp3.1\Razor\Views\Jokes\Edit.cshtml.g.cs
+C:\Users\chadl\Documents\Fork\Personal\jokes-web-app\obj\Debug\netcoreapp3.1\Razor\Views\Jokes\Index.cshtml.g.cs
